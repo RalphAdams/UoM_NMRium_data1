@@ -6,5 +6,12 @@
     "file": "./20_Second level/index.json",
     "title": "Second level",
     "selected": true
+  },
+  {
+    "id": "9FPxBwzfAu/2jL82DKkodU4O1v0=",
+    "mf": "C10H12O2",
+    "idCodeHash": "eb73c07cf15748f3fa7b39c3799f54ac",
+    "file": "./30_Molecule 2/index.json",
+    "title": "Molecule 2"
   }
 ]
