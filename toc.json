@@ -1,17 +1,10 @@
 [
   {
-    "id": "wJAhQ76V0bVbEJofx22t49FViAM=",
+    "id": "XGLyOMlG3jydSsF9sf9NzBf5cnI=",
     "mf": "C10H12O2",
     "idCodeHash": "eb73c07cf15748f3fa7b39c3799f54ac",
     "file": "./10_Molecule 2/index.json",
     "title": "Molecule 2",
     "selected": true
-  },
-  {
-    "id": "x/m/ot97dnPnneEOibKbLS4H5q0=",
-    "mf": "C8H10",
-    "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
-    "file": "./20_Second level/index.json",
-    "title": "Second level"
   }
 ]
